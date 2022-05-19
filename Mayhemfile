@@ -1,0 +1,6 @@
+project: rnshah9/bwa
+target: bwa
+
+cmds:
+  - cmd: /repo/bwa index @@
+    filepath: /test.fa
