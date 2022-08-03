@@ -2,5 +2,4 @@ project: bwa
 target: bwa
 
 cmds:
-  - cmd: /repo/bwa index /test.fa
-    filepath: /test.fa
+  - cmd: /bwa index @@
