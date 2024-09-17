@@ -1,0 +1,5 @@
+project: bwa
+target: bwa
+
+cmds:
+  - cmd: /bwa index @@
